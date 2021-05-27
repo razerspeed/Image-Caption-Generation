@@ -11,8 +11,10 @@ The decoder is deployed as a REST service in SERVER 2 https://image-caption-seve
 
 ![alt text](diagram.jpg)
 
-The final website is made using Streamlit Framework 
-link- https://image-caption-website.herokuapp.com/
+The website is made using Streamlit Framework 
+
+
+link to the final web app- https://image-caption-website.herokuapp.com/
 
 NOTE : First time the website me LOAD SLOW as the Heroku server sleep after some time of inactivity.
 
