@@ -10,3 +10,15 @@ The encoder is deployed as a REST service in SERVER 1  https://image-caption-ser
 The decoder is deployed as a REST service in SERVER 2 https://image-caption-sever2.herokuapp.com
 
 ![alt text](diagram.jpg)
+
+The final website is made using Streamlit Framework 
+link- https://image-caption-website.herokuapp.com/
+
+NOTE : First time the website me LOAD SLOW as the Heroku server sleep after some time of inactivity.
+
+If anyone wants to replicate the project
+
+clone these repo seperately and make heroku app out of it
+https://github.com/rohit-testing-ml/image-caption-server1
+https://github.com/rohit-testing-ml/image-caption-server2
+https://github.com/rohit-testing-ml/image-caption-website
