@@ -19,6 +19,9 @@ NOTE : First time the website me LOAD SLOW as the Heroku server sleep after some
 If anyone wants to replicate the project
 
 clone these repo seperately and make heroku app out of it
+
 https://github.com/rohit-testing-ml/image-caption-server1
+
 https://github.com/rohit-testing-ml/image-caption-server2
+
 https://github.com/rohit-testing-ml/image-caption-website
