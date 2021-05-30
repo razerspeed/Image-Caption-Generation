@@ -1,5 +1,5 @@
 # Image Caption Generation
-In this project we have implemented the encoder decoder network for image caption generation . 
+In this project I have implemented the encoder decoder network for image caption generation . 
 The CNN model act as Encoder and the Transformer Decoder act as an Decoder
 ![alt text](cnn_transformer.jpg)
 
